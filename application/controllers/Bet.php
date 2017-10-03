@@ -6,7 +6,9 @@ class Bet extends CI_Controller {
     /*
         Controller Details:
             Description: Betting page of the site
-            Accessible by anon: No
+			Accessible by anon: No
+			
+			Test
             
     */
     public function __construct()
